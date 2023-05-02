@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "id": "38694cde-b7a8-4fdb-bbf7-32d3e3c2d964",
+      "first_name": "Eve",
+      "last_name": "Lyn",
+      "gender": "Female",
+      "email": "eve01@test.com"
+    },
+    {
+      "id": "825699d3-6fd2-4d35-aNf5-f2b59bf9d998",
+      "first_name": "Voli",
+      "last_name": "Bear",
+      "email": "stormybear123@test.com",
+      "gender": "Male"
+    },
+    {
+      "id": "825699d3-6fd2-4d35-aff5-f2b59bf9d998",
+      "first_name": "Vlad",
+      "last_name": "Imir",
+      "email": "vladimir@test.com",
+      "gender": "Male"
+    },
+    {
+      "id": "ac6416d3-57cb-49eb-9868-cf15ec2d80b3",
+      "first_name": "Captain",
+      "last_name": "Teemo",
+      "email": "poison99@test.com",
+      "gender": "Male"
+    },
+    {
+      "first_name": "Karim",
+      "last_name": "ElMeniawy",
+      "email": "karimelmeniawy@test.com",
+      "gender": "Male"
+    },
+    {
+      "first_name": "Master",
+      "last_name": "Yi",
+      "gender": "Male",
+      "email": "blademaster404@test.com",
+      "id": "7MRhsQ9"
+    }
+  ]
+}
